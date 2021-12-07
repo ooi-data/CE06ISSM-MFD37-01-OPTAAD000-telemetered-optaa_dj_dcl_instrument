@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-MFD37-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument
 data_stream: CE06ISSM-MFD37-01-OPTAAD000-telemetered-optaa_dj_dcl_instrument
 end_date: '2021-12-06T20:29:46.991Z'
-last_updated: '2021-12-07T06:16:12.136858Z'
+last_updated: '2021-12-07T07:30:23.113101'
 start_date: '2017-04-13T20:30:19.000Z'
-status: pending
+status: failed
